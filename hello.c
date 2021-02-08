@@ -14,6 +14,7 @@ size_t my_strlen(char *s)
 int main(void)
 {
    int i;
+   printf("hello this is inside thilakraj folder");
    char *s[] = 
    {
       "Git tutorials",
