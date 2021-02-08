@@ -8,6 +8,7 @@ size_t my_strlen(char *s)
       ++p;
 
    return (p - s);
+   printf("Hello how are you");
 }
 
 int main(void)
